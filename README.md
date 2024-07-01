@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ufarooq8627
-- 👀 I’m interested in watching movies and riding bike
-- 🌱 I’m currently learning NFAK
+- 👀 I’m interested in building games, watching movies and riding bike
+- 🌱 I’m currently learning Game Development 
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me u.farooq8627@gmail.com
 
