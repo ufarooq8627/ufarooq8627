@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ufarooq8627
-- 👀 I’m interested in building games, watching movies and riding bike
-- 🌱 I’m currently learning Game Development 
-- 💞️ I’m looking to collaborate on none
+- 👀 I’m interested in riding bikes
 - 📫 How to reach me u.farooq8627@gmail.com
 
 <!---
